@@ -1,0 +1,11 @@
+org\ejb\session\ejb\ShoppingCart.class
+org\ejb\session\model\UserDao.class
+org\ejb\session\model\core\BaseDaoImp.class
+org\ejb\session\mdb\MyMdb.class
+org\ejb\session\model\core\Indexable.class
+org\ejb\session\entity\BaseEntity.class
+org\ejb\session\entity\User.class
+org\ejb\session\ejb\ShoppingCartBean.class
+org\ejb\session\model\UserDaoImpl.class
+org\ejb\session\model\Product.class
+org\ejb\session\model\core\BaseDao.class
